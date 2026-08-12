@@ -250,7 +250,7 @@ const services = [
     number: "07",
     title: "Education Technology and Digital Learning",
     text: "We promote effective technology use to improve teaching, learning, assessment, communication, and access to educational resources.",
-    image: "/dance.png",
+    image: "/dance3.png",
   },
   {
     number: "08",
