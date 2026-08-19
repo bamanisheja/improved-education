@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import SectionTitle from "./components/SectionTitle";
@@ -25,6 +26,7 @@ export default function App() {
       </main>
 
       <Footer />
+      <SpeedInsights />
     </div>
   );
 }
