@@ -9,6 +9,9 @@ import FocusAreas from "./sections/FocusAreas";
 import WhyUs from "./sections/WhyUs";
 import Contact from "./sections/Contact";
 import Hero from "./sections/Hero";
+import Parterns from "./sections/Parterns";
+
+import Staff from "./sections/Staff";
 export default function App() {
   return (
     <div className="min-h-screen bg-white">
@@ -22,6 +25,9 @@ export default function App() {
         <WhyUs />
         <Contact />
            <Hero />
+           <Staff/>
+           <Parterns/>
+
       </main>
 
       <Footer />
